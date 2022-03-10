@@ -1,4 +1,4 @@
-# Magento 2 Hreflang Extension
+# Magento 2 SEO Extension
 <img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/103e1b2520de2a36a364b0391bff6bdc/i/c/icon-seo-extension.webp">
