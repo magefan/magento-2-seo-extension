@@ -9,7 +9,7 @@
 [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) is the module created to help you leverage your SEO efforts to improve ranking, SERP positions, boost traffic and increase revenue. It covers vital SEO-related features you need to configure to be one step closer to better website visibility online. 
 
 
-<a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-seo-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
