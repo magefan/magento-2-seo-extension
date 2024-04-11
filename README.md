@@ -1,4 +1,4 @@
-# Magento 2 SEO Extension by Magefan
+# [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)  by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -12,8 +12,7 @@
 
 ## Requirements
   * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
-
+    
 ## Editions & Pricing
   
 <a href="https://magefan.com/magento-2-seo-extension/pricing">
