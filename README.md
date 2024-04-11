@@ -8,11 +8,21 @@
 
 [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) is the module created to help you leverage your SEO efforts to improve ranking, SERP positions, boost traffic and increase revenue. It covers vital SEO-related features you need to configure to be one step closer to better website visibility online. 
 
-
 <a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-seo-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
-## Benefits
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
 
+## Editions & Pricing
+  
+<a href="https://magefan.com/magento-2-seo-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/magento-2-seo-pricing.png"
+            alt="Plans and Pricing for Magento 2 SEO Extension" />
+        </a>
+
+## Benefits
 * Better online visibility
 * Improved SERP positions
 * More targeted traffic
@@ -161,6 +171,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-seo-extension/issues).
 
 ## Need More Features?
 Please contact us to get a quote
