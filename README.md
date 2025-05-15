@@ -4,7 +4,7 @@
 
 [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) is the module created to help you leverage your SEO efforts to improve ranking, SERP positions, boost traffic and increase revenue. It covers vital SEO-related features you need to configure to be one step closer to better website visibility online. 
 
-Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
