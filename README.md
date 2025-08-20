@@ -21,7 +21,7 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
   
 <a href="https://magefan.com/magento-2-seo-extension/pricing">
           <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-2-seo-pricing.png"
+            src="https://cm.magefan.com/wysiwyg/products/seo-pricing-plans.png"
             alt="Plans and Pricing for Magento 2 SEO Extension" />
         </a>
 
