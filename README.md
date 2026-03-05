@@ -1,23 +1,63 @@
-# [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)  by Magefan
+# [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) | Advanced SEO for Magento 2 Stores
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-seo-extension-1.jpg">
 
-[Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) is the module created to help you leverage your SEO efforts to improve ranking, SERP positions, boost traffic and increase revenue. It covers vital SEO-related features you need to configure to be one step closer to better website visibility online. 
+[Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension) is a profesional Magento SEO toolkit that helps merchants improve SEO on their stores for with minimal effort. It automates metadata with meta tags templates, structured data for products andotehr pages, sitemaps, canonical URLs, redirects and layered navigation and more. This SEO extnion for Magento allows you to improve Google rankings, AI visibility and drive more traffic organically without any SEO agencies and SEO experts.
+
+The extension integrates seamlessly with your store, and gives store your full control over advanced SEO tools, so you can automate SEO without any technical knowledge.
+
+Start optimizing Magento SEO with Magefan SEO tool to get visibility, traffic, and conversions.
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-seo-extension/documentation)
-  * [Change Log](https://magefan.com/magento-2-seo-extension/change-log)
-  * [FAQs](https://magefan.com/magento-2-seo-extension#pattr-faq)
+___
+TL;DR:
+Magefan Magento 2 SEO Extension automates SEO for Magento: meta tags, XML and HTML sitemaps, canonical tags, structured data, hreflang tags and more. Easy to configure, fully compatible with any Hyva and any other theme, and designed to boost organic search and AI visibility. 
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+## Why Use SEO Extension in Magento?
 
-## Editions & Pricing
+SEO is essential for online visibility, but managing it manually in Magento can be time-consuming. That's why an advanced Magento SEO Extension helps you to:
+
+* Improve product and category pages with proper meta data
+* Avoid duplicate content issues that can harm rankings
+* Add rich snippets (structured data) to products, categories and other pages
+* Generate and manage XML and HTML sitemaps
+* Automate redirects to avoid 404 pages
+* Create LLMs.txt file for AI system and AI overview snippets
+* Add hreflang tags for localized search
+* Add OG tags and Twitter cards for better social media visibility
+
+Magento 2 SEO Extension automates the majority of those processes. So you can rank higher, attract more visitors, and convert more customers without being "fluent" in SEO.
+
+## Features of the Magento SEO Extension
+
+* Meta tags templates for products, categories, CMS pages
+* Canonical tags settings for all pages (including custom pages)
+* Automatic redirects + SEO redirect rules
+* Custom metadata templates
+* SEO-friendly layered navigation
+* Rich snippets (structured data) for all store pages
+* XML and HTML sitemap
+* Open Graph and Twitter card tags
+* Hreflang tags
+* Custom meta robots
+* SEO-friendly URL generation
+* Breadcrumbs markup
+* Google preview in the admin
+* Meta keywords optimization
+
+## Pricing for the Magento SEO Module
+Magento 2 SEO Extension by Magefan is available in flexible plans to suit different needs. Magento SEO Extensions free option is not availbale. Instead, all plans include a different feature set for SEO automation.
+
+* Basic Plan: Ideal for small stores starting with Magento SEO optimisation 
+* Plus Plan: Advanced features including structured data and XML/HTML support
+* Extra Plan: Full Magento SEO toolkit with advanced SEO automation tools, hreflang tags support and social media optimisation
+
+All plans include compatibility with any Magento 2 theme, and premium support. 
   
 <a href="https://magefan.com/magento-2-seo-extension/pricing">
           <img
@@ -25,13 +65,8 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
             alt="Plans and Pricing for Magento 2 SEO Extension" />
         </a>
 
-## Benefits
-* Better online visibility
-* Improved SERP positions
-* More targeted traffic
-
-## Features
-### Advanced Magento 2 SEO Rules
+## Benefits of using an SEO Extension in Magento
+### Automate SEO with SEO Rules
 
 If you operate hundreds of products it is extremely time-consuming to complete unique metadata for all of them one by one. This Magento 2 SEO extension allows you to create SEO rules for meta titles, descriptions, H1 tags, and keywords. 
 
@@ -41,7 +76,7 @@ Use a handy list of attributes to specify the products, categories, blog or CMS 
   <img width="860" height="428" src="https://cm.magefan.com/catalog/magento-meta-tags-templates.png">
 </p>
 
-### No Duplicate Content
+### Avoid Duplicate Content
 
 To avoid content duplication, you have to constantly monitor your content. It happens quite often that user agents crawl your pages and prioritize the duplicates instead of the main pages badly influencing your search results. Not speaking about the penalties it drags along.
 
@@ -51,7 +86,7 @@ Yet, with the Magento SEO Extension from Magefan, you can add canonical tags to 
   <img width="860" height="428" src="https://cm.magefan.com/wysiwyg/products/magento-2-canonical-meta-tags.png">
 </p>
 
-### Automatic Redirects
+### Automate Redirects in Magento
 
 Disabling some product or category pages can result in 404 error pages, a poor user experience, and increased bounce rates. To avoid this and keep your pages ranking in SERP you have to create redirects. 
 
@@ -61,7 +96,7 @@ Instead of constantly doing it manually, use the Magento 2 SEO extension. It all
   <img width="860" height="428" src="https://cm.magefan.com/catalog/automatic-redirects-in-magento-2_2.png">
 </p>
 
-### Optimized Meta Keywords
+### Optimize Meta Keywords
 
 Keywords are what help search engines rank your website in SERP. Except for implementing relevant keywords in your page content, you can add them at the bottom of the page under the “People Also Searched For” block. It boosts the page relevancy and strengthens the target keyword.
 
@@ -69,7 +104,7 @@ Keywords are what help search engines rank your website in SERP. Except for impl
   <img width="800" height="500" src="https://cm.magefan.com/catalog/meta-keywords-optimization-magento.png">
 </p>
 
-### Catchy Rich Snippets
+### Enable Rich Snippets
 
 Even if your store pages appear in the search results is doesn’t always mean you get tons of traffic. You need to stand out to get new eyes on you. That’s where Magento 2 SEO Extension by Magefan comes in handy.
  
@@ -79,7 +114,7 @@ It allows you to configure the rich snippets for products and categories in a fe
   <img width="860" height="428" src="https://cm.magefan.com/wysiwyg/products/google-rich-snippets-for-magento-2.png">
 </p>
 
-### Search Results Preview
+### Preview Pages in Search Results
 
 The way your metadata appears in search results matters just as much. With this extension, you can preview your meta tags even before saving the page. Besides, Magefan SEO extension for Magento helps to keep your data optimized according to the SEO recommendations. 
 
@@ -89,7 +124,7 @@ You don’t need to worry about meta description or title being too long. The ex
   <img width="860" height="428" src="https://cm.magefan.com/wysiwyg/products/google-rich-snippets-for-magento-2.png">
 </p>
 
-### Effective Cross Linking
+### Enable Cross Linking
 
 Website naviation is crucial for proper SEO management and seamless user experience. Except for the default Magento features, Magefan SEO Extension for Magento allows you to automate internal linking. 
 
@@ -99,7 +134,7 @@ Using cross links you can specify the keyword to add the link to, add the link a
   <img width="860" height="428" src="https://cm.magefan.com/catalog/cross-link-in-product-description-magento_1.png">
 </p>
 
-### Alternate Hreflang Tags
+### Add Hreflang Tags
 A multi-language store has lots of perks, that’s for sure. Yet, it also requires more of your attention when it comes to management in general and Magento SEO in particular. 
 
 This Magento SEO Extension allows you to set hreflang tags directly from the admin panel. As a result, search engines know about each language variations in your store and rank each version separately. Better store switcher and more targeted search results are just a few clicks away. 
@@ -108,7 +143,7 @@ This Magento SEO Extension allows you to set hreflang tags directly from the adm
   <img width="860" height="428" src="https://cm.magefan.com/blog/magento-hreflang-tags.png">
 </p>
 
-### Social Media Optimized Content
+### Optimize Social Media Content
 The traffic you get from Google is great. But with the social media users being so active, it just isn’t  right to leave this area out. 
 
 This Magento 2 SEO Extension comes with Open Graph tags and Twitter Cards that make your content more attractive when shared on socials.   
@@ -117,7 +152,7 @@ This Magento 2 SEO Extension comes with Open Graph tags and Twitter Cards that m
   <img width="860" height="428" src="https://cm.magefan.com/blog/magento-social-media-tags.png">
 </p>
 
-### HTML/XML Sitemaps Management
+### Manage HTML/XML Sitemaps Better
 
 The clear structure of your website matters for both your customers and search engines. Thus you need to implement HTML and XML sitemaps to make navigating your website easier for both. 
 
